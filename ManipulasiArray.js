@@ -1,3 +1,5 @@
+//*learmnn
+
 // inisialsisasi array dengan nama yang sudah ada
 let names = ["Alice", "Bob", "Charlie"];
 
